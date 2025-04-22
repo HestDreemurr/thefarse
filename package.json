@@ -1,0 +1,13 @@
+{
+  "name": "the-farse",
+  "version": "1.0.0",
+  "description": "Protótipo de um jogo de navegador",
+  "scripts": {
+    "server": "node --watch server/index.js"
+  },
+  "author": "Hest",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.18.1"
+  }
+}
